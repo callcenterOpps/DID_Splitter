@@ -1,0 +1,4 @@
+pandas
+tkinter
+os
+re
