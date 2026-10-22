@@ -1,3 +1,4 @@
 pandas
-os
-re
+streamlit
+pandas
+openpyxl
